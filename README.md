@@ -1,4 +1,4 @@
-# heterogeneity-eco-evo-gen3sis
+# heterogeneity-eco-evo
 R scripts, functions and configurations used for simulations and data analysis in my master thesis Effects of Environmental Heterogeneity over Macroevolutionary Processes.
 
 In this repository are the main code files used to built the master thesis, including:
